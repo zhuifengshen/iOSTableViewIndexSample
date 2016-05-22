@@ -13,4 +13,4 @@ TableView分组和索引显示实战示例，基于语言Swift2.2，环境XCode7
 * 实现UITableViewDataSource协议方法tableView:cellForRowAtIndexPath:显示各个列表项的内容；
 * 实现UITableViewDataSource协议方法sectionIndexTitlesForTableView:返回索引数组；
 
-如果喜欢的话，欢迎**Start**一下
+如果喜欢的话，欢迎**Star**一下
